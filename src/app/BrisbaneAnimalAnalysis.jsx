@@ -6,7 +6,7 @@ import {
 } from "recharts";
 
 // ─── Data ───────────────────────────────────────────────────────────────────
-
+//EDA//
 const brisbaneAreas = [
   { id: "1",  name: "Brisbane City",    x: 50, y: 45, population: 15000, complaints: 245 },
   { id: "2",  name: "South Brisbane",   x: 48, y: 52, population: 12000, complaints: 198 },
